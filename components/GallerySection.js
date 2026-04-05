@@ -2,14 +2,14 @@ import Image from 'next/image'
 
 const GALLERY_IMAGES = [
   { src: '/photo/gallery-01.jpg', alt: 'Longues ondulations blondes' },
-  { src: '/photo/gallery-02.jpg', alt: 'Boucles blondes longues' },
-  { src: '/photo/gallery-03.jpg', alt: 'Chevelure blonde au salon' },
-  { src: '/photo/gallery-04.jpg', alt: 'Ondulations blondes souples' },
-  { src: '/photo/gallery-05.jpg', alt: 'Rendu blond lumineux avec volume' },
-  { src: '/photo/gallery-06.jpg', alt: 'Coupe blonde lisse et nette' },
-  { src: '/photo/gallery-07.jpg', alt: 'Chevelure bordeaux ondulée' },
-  { src: '/photo/gallery-08.jpg', alt: 'Transformation blonde devant l’affiche du salon' },
-  { src: '/photo/gallery-09.jpg', alt: 'Carré blond brillant et structuré' },
+  { src: '/photo/gallery-02.jpg', alt: 'Balayage blond dégradé' },
+  { src: '/photo/gallery-03.jpg', alt: 'Ondulations brun cendré' },
+  { src: '/photo/gallery-04.jpg', alt: 'Boucles blond doré' },
+  { src: '/photo/gallery-05.jpg', alt: 'Coiffure attachée avec accessoire' },
+  { src: '/photo/gallery-06.jpg', alt: 'Ondulations rouges vibrantes' },
+  { src: '/photo/gallery-07.jpg', alt: 'Balayage brun caramel long' },
+  { src: '/photo/gallery-08.jpg', alt: 'Carré blond lisse' },
+  { src: '/photo/gallery-09.jpg', alt: 'Ondulations brun miel dégradé' },
 ]
 
 function GalleryTile({ image }) {
