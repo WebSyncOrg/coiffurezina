@@ -30,7 +30,7 @@ export default function PromotionSection() {
                 <div className="mb-8">
                   <div className="relative inline-block">
                     <div className="text-7xl font-bold leading-none text-amber-500 md:text-8xl">
-                      -20%
+                      -15%
                     </div>
                     <div className="absolute -right-2 -top-2 flex h-16 w-16 rotate-12 items-center justify-center rounded-full bg-red-500 text-xs font-bold text-white">
                       HOT!
@@ -39,7 +39,7 @@ export default function PromotionSection() {
                 </div>
 
                 <h3 className="mb-4 text-2xl font-bold text-slate-950 md:text-3xl">
-                  Sur Coloration &amp; Traitement Kératine
+                  Sur Balayage &amp; Traitement Kératine
                 </h3>
 
                 <p className="mb-8 text-lg leading-relaxed text-slate-600">
@@ -54,7 +54,7 @@ export default function PromotionSection() {
                   </p>
                   <div className="mb-4 rounded-lg bg-white p-6 shadow-lg">
                     <div className="font-mono text-4xl font-bold tracking-wider text-amber-600 md:text-5xl">
-                      ZINA20
+                      ZINA15
                     </div>
                   </div>
                   <div className="flex items-center justify-center rounded-lg bg-white p-4 text-slate-700 shadow-sm">
@@ -93,7 +93,7 @@ export default function PromotionSection() {
                 </Button>
 
                 <p className="mt-6 text-sm text-slate-500">
-                  * Offre à durée limitée. Non cumulable avec d&apos;autres promotions.
+                  * Offre à durée limitée – Non cumulable avec d&apos;autres promotions ou produits
                 </p>
               </div>
             </CardContent>

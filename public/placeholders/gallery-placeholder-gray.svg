@@ -1,0 +1,8 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" rx="48" fill="#D1D5DB"/>
+  <rect x="56" y="56" width="788" height="788" rx="36" stroke="#9CA3AF" stroke-width="6" stroke-dasharray="18 18"/>
+  <path d="M282 602L402 462L502 562L610 430L744 634H156L282 602Z" fill="#9CA3AF"/>
+  <circle cx="322" cy="302" r="74" fill="#9CA3AF"/>
+  <text x="450" y="142" text-anchor="middle" fill="#4B5563" font-family="Arial, sans-serif" font-size="38" font-weight="700">Image en attente</text>
+  <text x="450" y="776" text-anchor="middle" fill="#4B5563" font-family="Arial, sans-serif" font-size="28">Remplacez ce visuel plus tard</text>
+</svg>

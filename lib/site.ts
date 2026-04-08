@@ -6,6 +6,10 @@ export const PHONE_E164 = '+15143228982'
 export const WHATSAPP_DISPLAY = '514 825 0260'
 export const WHATSAPP_DIGITS = '5148250260'
 
+export const INSTAGRAM_URL = 'https://www.instagram.com/coiffure_zina/'
+export const FACEBOOK_URL = 'https://www.facebook.com/people/Coiffure-Zina-Place-Bourassa/100044458190302/'
+export const TIKTOK_URL = 'https://www.tiktok.com/@coiffure.zina'
+
 export const ADDRESS = '6000 Boul Henri-Bourassa E, Montréal-Nord, QC H1G 2T6'
 
 export const MAPS_URL =

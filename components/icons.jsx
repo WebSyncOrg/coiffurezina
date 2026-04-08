@@ -102,3 +102,13 @@ export function FacebookIcon(props) {
     </BaseIcon>
   )
 }
+
+export function TikTokIcon(props) {
+  return (
+    <BaseIcon {...props}>
+      <path d="M14 4.5c.5 1.7 1.9 3 3.5 3.6" />
+      <path d="M14 4.5v8.8a4 4 0 1 1-4-4" />
+      <path d="M14 7.7c1 .8 2.2 1.2 3.5 1.3" />
+    </BaseIcon>
+  )
+}

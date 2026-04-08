@@ -38,11 +38,11 @@ export default function AboutSection() {
 
             <div className="mt-12 grid grid-cols-1 gap-6 md:grid-cols-3">
               <div className="text-center">
-                <div className="mb-2 text-4xl font-bold text-amber-600">10+</div>
+                <div className="mb-2 text-4xl font-bold text-amber-600">60+</div>
                 <div className="text-slate-600">Années d&apos;expérience</div>
               </div>
               <div className="text-center">
-                <div className="mb-2 text-4xl font-bold text-amber-600">1000+</div>
+                <div className="mb-2 text-4xl font-bold text-amber-600">4000+</div>
                 <div className="text-slate-600">Clients satisfaits</div>
               </div>
               <div className="text-center">
